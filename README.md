@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Heimdall</h1>
+  <h1>Umut Güden</h1>
   <p><em>Full Stack Developer | System Architect | AI Enthusiast</em></p>
 </div>
 
@@ -27,7 +27,7 @@
 I'm a passionate software engineer with extensive experience in full-stack development, system design, and AI integration. I thrive on building meaningful projects that solve real problems and push technological boundaries.
 
 ```typescript
-const heimdall = {
+const umutş = {
     role: "Full Stack Developer",
     mindset: ["Curious", "Innovative", "Detail-Oriented"],
     philosophy: "Quality over quantity, impact over visibility",

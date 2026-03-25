@@ -27,7 +27,7 @@
 I'm a passionate software engineer with extensive experience in full-stack development, system design, and AI integration. I thrive on building meaningful projects that solve real problems and push technological boundaries.
 
 ```typescript
-const umutş = {
+const umutguden = {
     role: "Full Stack Developer",
     mindset: ["Curious", "Innovative", "Detail-Oriented"],
     philosophy: "Quality over quantity, impact over visibility",

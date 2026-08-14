@@ -15,6 +15,8 @@ I wrote my first line of code in March 2020 and have been shipping since. Most o
 
 The work runs from consumer apps for iPhone and Apple Watch to messaging infrastructure and moderation tooling for large communities, plus a long stretch of the plumbing behind all three. Mostly TypeScript and Swift.
 
+Most of what I build now is B2B SaaS. Two platforms are in closed beta, and the rest of the time goes to cloud and DevOps, backend and data engineering, and the machine learning on a multi-sided platform serving businesses, their venues, and the people who use them. Multi-tenant systems, the boring reliability work underneath them, and the question of where a model genuinely improves a product rather than just appearing in the pitch.
+
 Currently working through machine learning properly, from the foundations rather than the frameworks, and applying to read computer science for 2027 entry.
 
 ## Selected work

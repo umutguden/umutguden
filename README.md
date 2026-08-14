@@ -21,9 +21,9 @@ Currently working through machine learning properly, from the foundations rather
 
 | Project | | |
 |---|---|---|
-| **[Bronzla](https://github.com/umutguden/bronzla)** | iOS and watchOS app for safe sun exposure. Works out how long you can stay in the sun from your skin type and the live UV index | Swift |
-| **[Snooze If You Can](https://github.com/umutguden/snooze-if-you-can)** | iOS alarm app that turns snoozing into donations | Swift |
-| **[Chat Guard](https://github.com/umutguden/chat-guard)** | Open-source moderation and server management for large Discord communities | TypeScript |
+| **[Bronzla](https://github.com/hmddevs/bronzla)** | iOS and watchOS app for safe sun exposure. Works out how long you can stay in the sun from your skin type and the live UV index | Swift |
+| **[Snooze If You Can](https://github.com/hmddevs/snooze-if-you-can)** | iOS alarm app that turns snoozing into donations | Swift |
+| **[Chat Guard](https://github.com/hmddevs/chat-guard)** | Open-source moderation and server management for large Discord communities | TypeScript |
 | **[IP API](https://github.com/hmddevs/ip-api)** | Privacy-focused IP geolocation service | Node.js |
 | **[HMD Bio](https://github.com/hmddevs/hmd-bio)** | URL shortener and link management platform | Next.js |
 

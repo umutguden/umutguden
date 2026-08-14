@@ -3,7 +3,7 @@
 # Umut Güden
 
 Software developer in Istanbul.
-I build under the name [HMD Developments](https://github.com/hmddevs) and write about the work at [guden.tr](https://guden.tr).
+I run a small studio, [HMD Developments](https://github.com/hmddevs), and write about the work at [guden.tr](https://guden.tr).
 
 </div>
 

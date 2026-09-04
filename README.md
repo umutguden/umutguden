@@ -3,6 +3,7 @@
 # Umut Güden
 
 Founder of [HMD Developments](https://github.com/hmddevs), an AI-native software studio in Istanbul.
+
 I build B2B SaaS end to end, and write about the work at [guden.tr](https://guden.tr).
 
 </div>

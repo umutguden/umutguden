@@ -2,8 +2,8 @@
 
 # Umut Güden
 
-Software developer in Istanbul.
-I run a small studio, [HMD Developments](https://github.com/hmddevs), and write about the work at [guden.tr](https://guden.tr).
+Founder of [HMD Developments](https://github.com/hmddevs), an AI-native software studio in Istanbul.
+I build B2B SaaS end to end, and write about the work at [guden.tr](https://guden.tr).
 
 </div>
 
@@ -15,9 +15,16 @@ I wrote my first line of code in March 2020 and have been shipping since. Most o
 
 The work runs from consumer apps for iPhone and Apple Watch to messaging infrastructure and moderation tooling for large communities, plus a long stretch of the plumbing behind all three. Mostly TypeScript and Swift.
 
-Most of what I build now is B2B SaaS. Two platforms are in closed beta, and the rest of the time goes to cloud and DevOps, backend and data engineering, and the machine learning on a multi-sided platform serving businesses, their venues, and the people who use them. Multi-tenant systems, the boring reliability work underneath them, and the question of where a model genuinely improves a product rather than just appearing in the pitch.
+Most of what I build now is B2B SaaS: Notifyn and Notifyn Cast, both in closed beta and described below. The rest of the time goes to cloud and DevOps, backend and data engineering, and the machine learning on a multi-sided platform serving businesses, their venues, and the people who use them. Multi-tenant systems, the boring reliability work underneath them, and the question of where a model genuinely improves a product rather than just appearing in the pitch.
 
 Currently working through machine learning properly, from the foundations rather than the frameworks, and applying to read computer science for 2027 entry.
+
+## Building now
+
+| Project | | |
+|---|---|---|
+| **Notifyn** | AI-powered multi-channel marketing platform. Email, SMS, WhatsApp, push, and voice behind a single AI decision layer | Next.js, MongoDB, AWS |
+| **Notifyn Cast** | Creator and UGC marketing, built on the Notifyn platform | Next.js, MongoDB |
 
 ## Selected work
 

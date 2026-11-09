@@ -29,12 +29,6 @@ Currently working through machine learning properly, from the foundations rather
 | **[Chat Guard](https://github.com/hmddevs/chat-guard)** | Open-source moderation and server management for large Discord communities | JavaScript |
 | **[IP API](https://github.com/hmddevs/ip-api)** | Privacy-focused IP geolocation service | Node.js |
 
-## Currently listening to
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ps3jyelec8p9sxp3hcmpoeznb&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-</div>
-
 ---
 
 <div align="center">

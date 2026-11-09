@@ -8,6 +8,8 @@ I build software end to end, and write about the work at [guden.tr](https://gude
 
 ---
 
+I run [HMD Developments](https://hmddevs.org), a software studio.
+
 ## About
 
 I wrote my first line of code in March 2020 and have been shipping since. Most of what I know came from building things people actually used and then living with the result, which is a faster teacher than any course, mainly because it does not let you skip the part where something breaks at an inconvenient hour.
@@ -22,10 +24,10 @@ Currently working through machine learning properly, from the foundations rather
 
 | Project | | |
 |---|---|---|
-| **[Bronzla](https://github.com/umutguden/bronzla)** | iOS and watchOS app for safe sun exposure. Works out how long you can stay in the sun from your skin type and the live UV index | Swift |
-| **[Snooze If You Can](https://github.com/umutguden/snooze-if-you-can)** | iOS alarm app that turns snoozing into donations | Swift |
-| **[Chat Guard](https://github.com/umutguden/chat-guard)** | Open-source moderation and server management for large Discord communities | JavaScript |
-| **[IP API](https://github.com/umutguden/ip-api)** | Privacy-focused IP geolocation service | Node.js |
+| **[Bronzla](https://github.com/hmddevs/bronzla)** | iOS and watchOS app for safe sun exposure. Works out how long you can stay in the sun from your skin type and the live UV index | Swift |
+| **[Snooze If You Can](https://github.com/hmddevs/snooze-if-you-can)** | iOS alarm app that turns snoozing into donations | Swift |
+| **[Chat Guard](https://github.com/hmddevs/chat-guard)** | Open-source moderation and server management for large Discord communities | JavaScript |
+| **[IP API](https://github.com/hmddevs/ip-api)** | Privacy-focused IP geolocation service | Node.js |
 
 ## Currently listening to
 
